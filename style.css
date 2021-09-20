@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(49, 156, 49);
+  min-height: 4000px;
+}
+.navbar {
+  min-height: 70px;
+  background-color: rgb(49, 156, 49);
+  overflow: hidden;
+}
+#main {
+  padding-top: 7rem;
+  overflow: hidden;
+}
+
+.content {
+  background-color: #dc3545;
+  min-height: 200px;
+  overflow: hidden;
+}
+#eksplor {
+  padding-top: 5rem;
+  overflow: hidden;
+}
+#populer {
+  padding-top: 5rem;
+  overflow: hidden;
+}
+#terbaru {
+  overflow: hidden;
+  justify-content: center;
+}
+#blog {
+  padding-top: 5rem;
+  overflow: hidden;
+}
+#testi {
+  overflow: hidden;
+}
+
+.pagedown {
+  padding-bottom: 5rem;
+  overflow: hidden;
+  background-color: #dc3545;
+}
+
+section {
+  padding-top: 3rem;
+}
